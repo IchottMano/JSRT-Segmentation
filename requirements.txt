@@ -1,0 +1,8 @@
+numpy
+matplotlib
+comet_ml
+imageio
+opencv-python
+torch
+torchvision
+getpass
